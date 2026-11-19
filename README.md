@@ -1,1 +1,1 @@
-This is my Spring JDBC Project on the case study- Student Management System
+This is my SpringBoot Project on the case study- Student Management System
